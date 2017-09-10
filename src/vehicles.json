@@ -1,0 +1,18 @@
+{
+  "TA Reefers": [
+    { "truck#": "10326",
+      "type": "TA Reefer",
+      "liftgate": "Rail Gate",
+      "license type": "CDL",
+      "max weight": "53200",
+      "vin": "1HTHXAHR2AJ221525",
+      "year": "2010",
+      "make": "INT",
+      "model": "8600",
+      "plate": "14900PB-NY",
+      "mileage": "133031",
+      "branch": "16-Bronx",
+      "last RA": "558746 7/28/17 - 8/1/17 Eskay"
+      }
+  ]
+}
